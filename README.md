@@ -13,3 +13,7 @@ Inhaltlich geht es um:
 * Mailserver (Anbindung an WinLink)
 * Anbiendung an Internet und / oder HamNet
 * ...
+
+'Alle relevanten Informationen dazu sind im Wiki zu finden.'
+
+In Unterverzeichnissen sind dann dazu die notwendigen Dateien.
