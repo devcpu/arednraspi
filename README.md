@@ -14,6 +14,6 @@ Inhaltlich geht es um:
 * Anbiendung an Internet und / oder HamNet
 * ...
 
-'Alle relevanten Informationen dazu sind im Wiki zu finden.'
+**Alle relevanten Informationen dazu sind im Wiki zu finden.**
 
 In Unterverzeichnissen sind dann dazu die notwendigen Dateien.
