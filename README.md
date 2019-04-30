@@ -11,6 +11,7 @@ Inhaltlich geht es um:
 * Dateiablabe
 * Videokamerea
 * Mailserver (Anbindung an WinLink)
+* Telemerie-Daten (Uhrzeit, Spannung + Strom Batterie, u.a.)
 * Anbindung an Internet und / oder HamNet / oder ...
 * ...
 
